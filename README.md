@@ -1,4 +1,6 @@
-# Superstore Sales Forecasting using Machine Learning
+# Sales & Demand Forecasting for Businesses
+
+## Superstore Sales Forecasting using Machine Learning
 
 ## 📌 Project Overview
 
